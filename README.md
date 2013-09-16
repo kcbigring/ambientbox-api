@@ -1,0 +1,3 @@
+This is an initial and incomplete proof of concept, first pass at an api for the ambientbox frontend...
+
+This repo will be deleted in 60 days, so take what you want moving forward. The intent was to prrovide a R/W interface to Cassandra to persist time series data.
